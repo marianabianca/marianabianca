@@ -4,7 +4,7 @@
 [![email](https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white)](mailto:maridbianca@gmail.com)
 
 <samp>
-I'm Mariana, a Computer Science Master's student and software engineer. Everyday learning a bit more about data analysis, backend and frontend development. In my spare time I love to knit, crochet, do criative activites, hangout with friends and visit new places :stuck_out_tongue_closed_eyes:	
+I'm Mariana, a Computer Science Master's student and software engineer. Everyday learning a bit more about data analysis, backend and frontend development. In my spare time I love to knit, crochet, do creative activites, hangout with friends and visit new places :stuck_out_tongue_closed_eyes:	
 </samp>
 
 ### 
